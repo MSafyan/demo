@@ -1,14 +1,128 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "competitions":[
+      "competion1",
+      "competion2",
+      "competion3"
+   ],
+   "matchs":[
+      "matchs1",
+      "matchs2",
+      "matchs3"
+   ],
+   "seasons":[
+      "season1",
+      "season2",
+      "season3"
+   ],
+   "teamPlayers":[
+      "teamPlayer1",
+      "teamPlayer2",
+      "teamPlayer3"
+   ],
+   "teams":[
+      "team1",
+      "team2",
+      "team3"
+   ],
+   "table":[
+      {
+         "id":1,
+         "Opponent_team":"name 1",
+         "Home_Team":"Home_Team",
+         "PTS":32,
+         "FGM":233,
+         "FG3M":23,
+         "FG3A":23
+      },
+      {
+         "id":1,
+         "Opponent_team":"name 1",
+         "Home_Team":"Home_Team",
+         "PTS":32,
+         "FGM":233,
+         "FG3M":23,
+         "FG3A":23
+      },
+      {
+         "id":1,
+         "Opponent_team":"name 1",
+         "Home_Team":"Home_Team",
+         "PTS":32,
+         "FGM":233,
+         "FG3M":23,
+         "FG3A":23
+      },
+      {
+         "id":1,
+         "Opponent_team":"name 1",
+         "Home_Team":"Home_Team",
+         "PTS":32,
+         "FGM":233,
+         "FG3M":23,
+         "FG3A":23
+      },
+      {
+         "id":1,
+         "Opponent_team":"name 1",
+         "Home_Team":"Home_Team",
+         "PTS":32,
+         "FGM":233,
+         "FG3M":23,
+         "FG3A":23
+      },
+      {
+         "id":1,
+         "Opponent_team":"name 1",
+         "Home_Team":"Home_Team",
+         "PTS":32,
+         "FGM":233,
+         "FG3M":23,
+         "FG3A":23
+      },
+      {
+         "id":1,
+         "Opponent_team":"name 1",
+         "Home_Team":"Home_Team",
+         "PTS":32,
+         "FGM":233,
+         "FG3M":23,
+         "FG3A":23
+      },
+      {
+         "id":1,
+         "Opponent_team":"name 1",
+         "Home_Team":"Home_Team",
+         "PTS":32,
+         "FGM":233,
+         "FG3M":23,
+         "FG3A":23
+      },
+      {
+         "id":1,
+         "Opponent_team":"name 1",
+         "Home_Team":"Home_Team",
+         "PTS":32,
+         "FGM":233,
+         "FG3M":23,
+         "FG3A":23
+      },
+      {
+         "id":1,
+         "Opponent_team":"name 1",
+         "Home_Team":"Home_Team",
+         "PTS":32,
+         "FGM":233,
+         "FG3M":23,
+         "FG3A":23
+      },
+      {
+         "id":1,
+         "Opponent_team":"name 1",
+         "Home_Team":"Home_Team",
+         "PTS":32,
+         "FGM":233,
+         "FG3M":23,
+         "FG3A":23
+      }
+   ]
 }
